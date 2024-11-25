@@ -1,7 +1,3 @@
-#mysql answers
-
-Here are detailed answers to your questions:
-
 1. State and Explain the components of a DBMS (Database Management System):
 A DBMS consists of several components that work together to store, retrieve, and manage data efficiently. These include:
 
@@ -85,4 +81,4 @@ Data Organization: Stores structured data in tables for easy access.
 Data Security: Ensures only authorized users can access or modify data.
 Data Consistency: Maintains accuracy and integrity through rules and constraints.
 Concurrent Access: Allows multiple users to access data simultaneously without conflicts.
-Backup and Recovery: Protects data against loss and enables restoration in case of failure.
+Backup and Recovery: Protects data against loss and enables restoration in case of failure
